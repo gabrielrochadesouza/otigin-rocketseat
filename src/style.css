@@ -1,5 +1,5 @@
 /*====  RESET ============================ */
-* {
+* { 
   margin: 0;
   padding: 0;
   box-sizing: border-box;
@@ -157,7 +157,7 @@ main {
   margin-right: 1.5rem;
   text-align: center;
 }
-
+/*varias coisas tem sua funcionalidade tanto css, js e html são compontentes muito importante  
 #home .text h1 {
   margin-bottom: 1rem;
 }
